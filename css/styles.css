@@ -82,12 +82,12 @@ a.btn-cta-secondary,
 }
 a.btn-cta-secondary:hover,
 .btn-cta-secondary:hover {
-  background: #4CC552;
+  background: #FFFF00;
   border: 1px solid #3893bd;
   color: #fff;
 }
 .text-highlight {
-  color: #32383e;
+  color: #C0C0C0;
 }
 .label-theme {
   background: #3AAA64;
