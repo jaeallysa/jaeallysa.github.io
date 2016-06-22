@@ -11,7 +11,7 @@ body {
   font-family: 'Lato', arial, sans-serif;
   color: #C0C0C0;
   background: #808080;
-  font-size: 26px;
+  font-size: 24px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -90,7 +90,7 @@ a.btn-cta-secondary:hover,
   color: #C0C0C0;
 }
 .label-theme {
-  background: #3AAA64;
+  background: #FFFF00;
   font-size: 12px;
 }
 a.dotted-link {
