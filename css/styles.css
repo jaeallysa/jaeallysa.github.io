@@ -95,11 +95,11 @@ a.btn-cta-secondary:hover,
 }
 a.dotted-link {
   border-bottom: 1px dotted #778492;
-  color: #778492;
+  color: #C0C0C0;
 }
 a.dotted-link:hover {
   text-decoration: none;
-  color: #49515a;
+  color: #C0C0C0;
 }
 /*
 iframe {
