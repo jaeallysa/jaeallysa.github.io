@@ -310,6 +310,7 @@ iframe {
 }
 .experience .item .title .place a {
   color: #FFFF00;
+  font-size: 12px;
 }
 .experience .item .title .place a:hover {
   color: #666666;
