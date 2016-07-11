@@ -299,7 +299,7 @@ iframe {
   margin-bottom: 30px;
 }
 .experience .item .title {
-  font-size: 16px;
+  font-size: 8px;
   margin-top: 0;
   margin-bottom: 5px;
   line-height: 1.5;
@@ -310,7 +310,6 @@ iframe {
 }
 .experience .item .title .place a {
   color: #FFFF00;
-  font-size: 8px;
 }
 .experience .item .title .place a:hover {
   color: #666666;
